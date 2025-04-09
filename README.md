@@ -71,7 +71,14 @@ This project is currently in **Beta**. While it should work as expected, there m
 
 Now go ahead, optimize your system, and start crushing it in your games! Don't forget to report any bugs, and stay tuned for future updates! 🚀
 
+## 👽Credits
 
+- [Alchemy PC Services](https://discord.gg/8eDjJgBf)
+- [Kizzimo](https://discord.gg/srDunT5u)
+- [Khorvie Tech](https://discord.gg/UAzj9Rgg)
+
+Thanks to these amazing communities, this guide is out here and ready to help you take your PC performance to the next level!  
+---
 
 
 gauys chatgpt write everything in readme file sorry if he's kinda cringe like me  
