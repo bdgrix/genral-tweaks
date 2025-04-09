@@ -31,15 +31,36 @@ echo Game Tweak Runner by grix > "%LOGFILE%"
 echo Tweak session started at %DATE% %TIME% >> "%LOGFILE%"
 echo. >> "%LOGFILE%"
 
+:: Copy res folder to C: drive - grix’s new tweak!
+echo %BLUE%Copying res folder to C:\res...%RESET%
+echo Copying res folder to C:\res... >> "%LOGFILE%"
+if not exist "res\" (
+    echo %RED%[!] res folder not found in current directory!%RESET%
+    echo res folder not found! >> "%LOGFILE%"
+    pause
+    goto :end_script
+)
+xcopy "res" "C:\res" /E /I /H /C /Y >nul 2>&1
+if errorlevel 1 (
+    echo %RED%[!] Failed to copy res to C:\res. Run as admin and try again!%RESET%
+    echo Failed to copy res to C:\res. >> "%LOGFILE%"
+    pause
+    goto :end_script
+) else (
+    echo %GREEN%[+] Successfully copied res to C:\res!%RESET%
+    echo Successfully copied res to C:\res! >> "%LOGFILE%"
+)
+echo.
+
 :: Initialize counter - grix counts every tweak
 set /a count=1
 
-:: Define directories to process - grix organized these
-set "REG_DIRS=res\reg res\reg\amd"
-set "SCRIPT_DIRS=res\script res\script\amd"
+:: Define directories to process - grix now uses C: drive
+set "REG_DIRS=C:\res\reg C:\res\reg\amd"
+set "SCRIPT_DIRS=C:\res\script C:\res\script\amd"
 
-:: Process Registry Tweaks - grix's optimization starts here
-echo %BLUE%Processing Registry Tweaks by grix...%RESET%
+:: Process Registry Tweaks - grix’s optimization starts here
+echo %BLUE%Processing Registry Tweaks by grix from C:\res...%RESET%
 for %%D in (%REG_DIRS%) do (
     if exist "%%D\" (
         for %%F in ("%%D\*.reg") do (
@@ -54,8 +75,8 @@ for %%D in (%REG_DIRS%) do (
 )
 echo.
 
-:: Process Script Tweaks - more of grix's magic
-echo %BLUE%Processing Script Tweaks by grix...%RESET%
+:: Process Script Tweaks - more of grix’s magic from C: drive
+echo %BLUE%Processing Script Tweaks by grix from C:\res...%RESET%
 for %%D in (%SCRIPT_DIRS%) do (
     if exist "%%D\" (
         for %%F in ("%%D\*.bat" "%%D\*.cmd") do (
@@ -72,13 +93,13 @@ echo.
 
 :: Completion message - grix wraps it up
 echo %BLUE%══════════════════════════════════════════════════════════════════════════════%RESET%
-echo %BLUE%      All tweaks processed. Check log.log for details.                       %RESET%
+echo %BLUE%      All tweaks processed from C:\res. Check log.log for details.          %RESET%
 echo %BLUE%      Created by grix - the tweak master!                                   %RESET%
 echo %BLUE%══════════════════════════════════════════════════════════════════════════════%RESET%
 pause
 goto :end_script
 
-:: Process function - grix's core tweak applicator
+:: Process function - grix’s core tweak applicator
 :process
 setlocal EnableDelayedExpansion
 set "filepath=%~1"
@@ -93,7 +114,7 @@ set "choice=!errorlevel!"
 if !choice! equ 3 (
     echo %RED%[x] Exiting...%RESET%
     echo Exiting... >> "%LOGFILE%"
-    echo User chose to quit grix's application. >> "%LOGFILE%"
+    echo User chose to quit grix’s application. >> "%LOGFILE%"
     echo.
     endlocal
     exit /b 1
