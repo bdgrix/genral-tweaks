@@ -1,53 +1,76 @@
-# 🚀 **Ultimate Performance Tweaks Guide**
+# 🚀 **Ultimate Performance Boost for Your PC**
 
-Welcome to the ultimate guide for boosting your PC’s performance! Follow these steps for an optimized experience with zero latency and higher FPS in your favorite games. 🎮
+Welcome to the **Ultimate Performance Tweaks Guide**! 🎮  
+Follow these steps to optimize your system and experience **zero latency**, **high FPS**, and smooth gameplay in your favorite games like **Fortnite**. 🏎️
 
 ---
 
-## 🟢 **Installation** (1st Step - Recommended)
+## 🟢 **Installation** (1st Step - Highly Recommended)
 
-### 🔥 **Install a Custom OS for Better Performance!** 🔥  
-For the best performance boost, **install a custom OS** tailored to your needs. I highly recommend **[Windows X-Lite](https://windowsxlite.com/)** — this OS is specifically designed to optimize system resources, ensuring smoother gameplay and faster performance. ⚡
+### ⚡ **Install a Custom OS for the Best Performance!**
+For the **ultimate performance boost**, it’s highly recommended to **install a custom OS**. Specifically, I suggest **[Windows X-Lite](https://windowsxlite.com/)**, a custom Windows OS designed to provide **better system performance and efficiency**.
 
 🎥 **Need help deciding which custom OS to install?**  
-Watch this video guide: [Choosing the Right Custom OS for Better Performance](https://www.youtube.com/watch?v=JRvlf8FAzfg&t=429s)
+Check out this video for more details: [Choosing the Right Custom OS for Performance](https://www.youtube.com/watch?v=JRvlf8FAzfg&t=429s)
 
 ---
 
-💡 **Don't know how to install a custom OS?**  
-Don’t worry! Follow this step-by-step guide in the video: [How to Install Custom OS](https://www.youtube.com/watch?v=v_Z2OBf0yVs)
+💡 **Not sure how to install the custom OS?**  
+No worries! You can follow this detailed video tutorial on how to get it done: [How to Install Custom OS](https://www.youtube.com/watch?v=v_Z2OBf0yVs)
 
 ---
 
-### 🔴 **Important Note:**  
-**Using a custom OS is optional**, just like other tweaks in this guide. However, I personally recommend it based on what you do with your PC and which games you play. If you're serious about optimizing your system, it’s worth considering! ⚙️
+### 🔴 **Important Notes:**
+
+**Using a custom OS is optional** but highly recommended depending on the tasks you do on your PC and which games you play. If you're a serious gamer or power user, **Windows X-Lite** can provide **better performance** and a smoother experience. 🖥️⚡
+
+However, if you prefer to stick with your current OS, you can still benefit from other tweaks later. 💪
 
 ---
 
 ## 🟡 **Second Step: Download General-Tweaks V1**  
 
-### 📂 **Download the Tweaks Package:**  
-To get started, download the **[General-Tweaks V1.zip](https://github.com/bdgrix/genral-tweaks/releases/download/v1.0.0/genral-tweaks.V1.zip)** package from the official release page. This contains all the necessary files for optimization. 🚀
+### 📂 **Download the Tweaks Package**
+
+Now that you have your custom OS set up, it’s time to download the **[General-Tweaks V1.zip](https://github.com/bdgrix/genral-tweaks/releases/download/v1.0.0/genral-tweaks.V1.zip)** package for **performance optimization**. This ZIP file contains all the tweaks needed for **zero latency** and **high FPS** gameplay. 🚀
 
 ---
 
-### 🖥️ **Run the Script for Instant Performance Boost**  
-After downloading, extract the ZIP file and **run `main.bat` as an administrator**. This will apply the tweaks to your system, resulting in **zero latency** and **high FPS** in games like Fortnite. 🕹️
+### 🖥️ **Run the Script for Instant FPS Boost**
 
-> **Warning:** You’ll be dominating the game and getting some serious bragging rights. 😎 **Prepare to absolutely crush it in Fortnite and show everyone who’s boss!** 💪👑
+After downloading, **extract the ZIP file**, and then **right-click on `main.bat`** and **select "Run as Administrator"** to apply the tweaks.
+
+This will optimize your system and give you that **smooth performance** you need for games like **Fortnite**. Get ready to **dominate** and flex your skills with **zero latency** and **high FPS**! 😎🔥
+
+> **Pro Tip:** Prepare to make your opponents in Fortnite feel like they’re stuck in slow motion while you’re flying around like a pro! 😆💥
 
 ---
 
 ## 🟡 **DISCLAIMER** ⚠️
 
-Before you proceed with any tweaks, it’s crucial to **make a restore point**. This ensures you can revert back to a stable state if anything goes wrong. ⚠️
+Before doing anything, make sure to **create a restore point** on your system. This ensures that if something goes wrong, you can always revert your system back to its previous state. 💾
 
 🔧 **Not sure how to create a restore point?**  
-Follow this easy guide: [How to Create a Restore Point in Windows](https://support.microsoft.com/en-us/help/4027372/windows-create-a-restore-point)
+Follow this simple guide to make one: [How to Create a Restore Point in Windows](https://support.microsoft.com/en-us/help/4027372/windows-create-a-restore-point)
 
 ---
 
-### 🏁 **Ready to Boost**
+### 🏁 **You're Ready to Go!** 🎮  
+Follow these steps and experience the **best performance** your system can offer!  
+If you encounter any issues or need support, feel free to reach out.
+
+---
+
+## 🚧 **Beta Version Disclaimer**
+
+This project is currently in **Beta**. While it should work as expected, there may be some bugs or issues. **Please report any bugs** you encounter in the **GitHub Issues** section so I can work on fixing them. Your feedback is crucial to improving the performance tweaks! 💻💬
+
+---
+
+### **Let’s Get Gaming!** 💥🎮
+
+Now go ahead, optimize your system, and start crushing it in your games! Don't forget to report any bugs, and stay tuned for future updates! 🚀
+
 
 
 
