@@ -18,5 +18,5 @@ You can follow this guide and watch the tutorial here: [How to Install Custom OS
 
 ## 🟡 DISCLAIMER
 
-⚠️ **Make a restore point before doing anything!** ⚠️  
+⚠️ **Make a restore point before doing anything!** ⚠️ 
 If you're unsure how to create a restore point, don't worry! You can follow the steps in this guide: [How to Create a Restore Point](https://support.microsoft.com/en-us/help/4027372/windows-create-a-restore-point).
