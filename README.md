@@ -32,7 +32,7 @@ However, if you prefer to stick with your current OS, you can still benefit from
 
 ### 📂 **Download the Tweaks Package**
 
-Now that you have your custom OS set up, it’s time to download the **[General-Tweaks V1.zip](https://github.com/bdgrix/genral-tweaks/releases/download/v1.0.0/genral-tweaks.V1.zip)** package for **performance optimization**. This ZIP file contains all the tweaks needed for **zero latency** and **high FPS** gameplay. 🚀
+Now that you have your custom OS set up, it’s time to download the **[General-Tweaks V1.zip](https://github.com/bdgrix/genral-tweaks/releases/download/v1.1/genral-tweaks.V1.1.zip)** package for **performance optimization**. This ZIP file contains all the tweaks needed for **zero latency** and **high FPS** gameplay. 🚀
 
 ---
 
