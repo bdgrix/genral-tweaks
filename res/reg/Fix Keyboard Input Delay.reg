@@ -1,0 +1,11 @@
+Windows Registry Editor Version 5.00				Made By EverythingTech (https://www.youtube.com/c/EverythingTechTutorials/?sub_confirmation=1)
+
+*Keyboard Optimizations (highly recommended)*
+
+[HKEY_CURRENT_USER\Control Panel\Keyboard]
+"KeyboardDelay"="0"
+
+[HKEY_USERS\.DEFAULT\Control Panel\Keyboard]
+"KeyboardDelay"="0"
+
+                                  				Made By EverythingTech (https://www.youtube.com/c/EverythingTechTutorials/?sub_confirmation=1)
