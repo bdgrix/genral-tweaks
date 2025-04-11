@@ -52,4 +52,3 @@ This project is in **Beta**. It should work as expected, but there may be bugs o
 - [Kizzimo](https://discord.gg/srDunT5u)
 - [Khorvie Tech](https://discord.gg/UAzj9Rgg)
 
-Thanks to these amazing communities for their support in making this guide possible!
