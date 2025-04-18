@@ -18,7 +18,7 @@ Check out this video on how to install the custom OS: [How to Install Custom OS]
 
 ## **Step 2: Download General-Tweaks V2**  
 
-Download the **[General-Tweaks V2.zip](https://github.com/bdgrix/genral-tweaks/releases/download/v1.1/genral-tweaks.V1.1.zip)** package for **performance optimization**.
+Download the **[General-Tweaks V2.zip](https://github.com/bdgrix/genral-tweaks/releases/download/v2.0.0/genral-tweaks.V2.zip)**
 
 1. Extract the ZIP file.
 2. Right-click on `main.bat` and select **"Run as Administrator"** to apply the tweaks.
