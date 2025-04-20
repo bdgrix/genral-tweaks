@@ -1,15 +1,16 @@
 ## ⚠️ **DISCLAIMER**
 
-my tweaks should make restore point but if u have issue with that u can do it manualy
+
+script itself should make restore point but if u have issue with that u can do it manualy
 
 > **Create a restore point**: [How to Create a Restore Point in Windows](https://support.microsoft.com/en-us/help/4027372/windows-create-a-restore-point)
 
-## **Step 1: Install a Custom OS for Ultimate Performance**
+## **Step 1: Install a Custom windows**
 
-For the best performance, it’s recommended to install a custom OS like **[Windows X-Lite](https://windowsxlite.com/)**. This OS is optimized for better system efficiency and smoother gameplay.
+it’s recommended to install a custom OS like **[Windows X-Lite](https://windowsxlite.com/)**. This OS is optimized for better system efficiency and smoother gameplay.
 
 > **Need help?**  
-Watch this video for more details on choosing the right custom OS: [Choosing the Right Custom OS](https://www.youtube.com/watch?v=JRvlf8FAzfg&t=429s)
+this video help you find Best Custom Windows for yourself[Choosing the Right Custom OS](https://www.youtube.com/watch?v=JRvlf8FAzfg&t=429s)
 
 > **Installation Guide**  
 Check out this video on how to install the custom OS: [How to Install Custom OS](https://www.youtube.com/watch?v=v_Z2OBf0yVs)
