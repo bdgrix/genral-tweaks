@@ -29,7 +29,7 @@ These tweaks will optimize your system for **higher FPS** and **lower latency** 
 
 ---
 
-##  **Step 3: Overclock Your GPU for Maximum Performance**
+##  **Step 3: Overclock Your GPU (experimental) **
 mostly recommended for gpu intensive game like cod but u can test it for fortnite and valorant and more to 
 
 ### How to Overclock:
@@ -38,10 +38,18 @@ mostly recommended for gpu intensive game like cod but u can test it for fortnit
 
 ---
 
+##  **Step 4: Overclock Your BIOS**
+
+### How optimize BIOS:
 
 
+- there is so many optimizing BIOS Guide but IMO these are the best
 
+**[BIOS Overclocking Guide(intel)](https://www.youtube.com/watch?v=B0M3rbqShgQ)**.
 
+**[BIOS Overclocking Guide(AMD)](https://www.youtube.com/watch?v=BKs7ZTGGy5s)**.
+
+---
 
 ## 👽 **Credits**
 
