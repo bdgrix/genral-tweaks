@@ -38,7 +38,7 @@ mostly recommended for gpu intensive game like cod but u can test it for fortnit
 
 ---
 
-##  **Step 4: Overclock Your BIOS**
+##  **Step 4: optimize Your BIOS**
 
 ### How optimize BIOS:
 
