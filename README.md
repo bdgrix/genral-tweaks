@@ -50,6 +50,11 @@ mostly recommended for gpu intensive game like cod but u can test it for fortnit
 **[BIOS Overclocking Guide(AMD)](https://www.youtube.com/watch?v=BKs7ZTGGy5s)**.
 
 ---
+##  **Step 5: overclock your controller**
+### ⚠️ **WARNING**
+- as its obvious only do it if u r using controller
+
+**[controller Overclocking Guide](https://www.youtube.com/watch?app=desktop&v=kzJkhnBP5mM)**.
 
 ## 👽 **Credits**
 
